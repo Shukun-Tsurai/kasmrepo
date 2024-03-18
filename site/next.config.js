@@ -10,7 +10,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/Shukun-Tsurai/kasmrepo/1.0',
+  basePath: '/kasmrepo/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,

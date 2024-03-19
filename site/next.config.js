@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/Shukun-Tsurai/kasmrepo/',
+    listUrl: 'https://shukun-tsurai.github.io/kasmrepo/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
